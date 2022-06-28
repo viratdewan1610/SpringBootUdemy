@@ -1,0 +1,7 @@
+package com.springboot.basics.Spring.boot;
+
+public class BinarySearchImpl {
+	// Implementing Sorting Logic
+	// Search the array
+	return 3;
+}

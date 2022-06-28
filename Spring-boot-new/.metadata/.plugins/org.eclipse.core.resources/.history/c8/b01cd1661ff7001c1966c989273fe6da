@@ -1,0 +1,6 @@
+package com.springboot.basics.Spring.boot;
+
+public interface SortAlgorithm {
+	public int[] sort(int[] numbers );
+
+}

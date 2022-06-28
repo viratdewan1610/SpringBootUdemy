@@ -1,0 +1,6 @@
+#Wed Jun 29 02:21:29 IST 2022
+__DEFAULT__=false
+expression=Package Presentation
+org.eclipse.help.ui.localSearch.master=true
+org.eclipse.sdk.Eclipse.master=true
+org.eclipse.sdk.Google.master=true

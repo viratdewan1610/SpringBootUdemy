@@ -1,0 +1,12 @@
+package com.springboot.basics.Spring.boot;
+
+public class BinarySearchImpl {
+	public int binarySearch(int[] numbers, int numberToSearchFor) {
+		
+		BubbleSort bubbleSort =new BubbleSort();
+		int[] sortedNumbers = bubbleSort.sort(numbers);
+
+	// Search the array
+	return 3;
+	}
+}

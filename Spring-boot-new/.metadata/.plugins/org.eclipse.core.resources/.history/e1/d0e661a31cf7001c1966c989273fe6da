@@ -1,0 +1,11 @@
+package com.springboot.basics.Spring.boot;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class QuickSort implements SortAlgorithm{
+	public int[] sort(int[] numbers ){
+		//logic for quick sort
+		return numbers;
+	}
+}

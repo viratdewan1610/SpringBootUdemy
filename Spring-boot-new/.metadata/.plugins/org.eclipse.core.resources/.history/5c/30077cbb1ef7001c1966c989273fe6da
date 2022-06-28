@@ -1,0 +1,5 @@
+package com.springboot.basics.Spring.boot;
+
+public class JdbcConnection {
+
+}
